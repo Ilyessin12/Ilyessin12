@@ -16,7 +16,7 @@ I'm a passionate developer with a love for technology and problem-solving. I enj
 
 Here are some of the technologies I work with:
 
-- **Languages:** [Language1], [Language2], [Language3]
+- **Languages:** [HTML5], [CSS], [Language3]
 - **Frameworks/Libraries:** [Framework1], [Library1], [Framework2]
 - **Tools:** [Tool1], [Tool2], [Tool3]
 
