@@ -5,7 +5,7 @@ Hi There, if you want to know more about me then here ya go:
 - **Field of Study:** Computer Science
 - **Current Occupation:** Bachelor Student
 - **Current Institution:** Indonesia's University of Education (UPI)
-- **Interests:** Mobile app development, Cybersecurity, Fullstack development, Backend developmen
+- **Interests:** Android/IOS Development, Cybersecurity, Fullstack development, Backend development
 
 ## Tools & Technologies
 
